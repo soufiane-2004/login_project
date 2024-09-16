@@ -261,7 +261,7 @@ h1 {
   
   .container {
     position: fixed;
-    height:50vh;
+    height:30vh;
     width: 100%;
     display: block;
     background : linear-gradient(to bottom ,rgb(255, 94, 0),orange, rgb(173, 172, 172) );
@@ -269,6 +269,9 @@ h1 {
     border-bottom-right-radius: 20%;
     border-top-right-radius: 0;
     box-shadow: 10px 10px 10px rgba(70,70,70,1.3);
+  }
+  .section {
+    margin-bottom: 0;
   }
   .img-container {
     margin-top: 30%;

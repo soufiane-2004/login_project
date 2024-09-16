@@ -263,7 +263,7 @@ h1 {
     height: 100%;
     width: 100%;
     display: block;
-    background : linear-gradient(to bottom  ,rgb(243, 36, 250),rgb(39, 137, 250) 15%,rgb(96, 231, 255) ,rgb(214, 213, 213));
+    background : linear-gradient(to bottom  ,rgb(250, 145, 46) 70%,rgb(248, 164, 68) 15%,rgb(209, 207, 206) ,rgb(250, 247, 247));
     justify-content: center;
     border-bottom-left-radius: 10%;
     border-bottom-right-radius: 10%;
